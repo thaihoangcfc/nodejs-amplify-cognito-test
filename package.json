@@ -1,0 +1,20 @@
+{
+  "name": "amplify-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-cognito-identity-js": "^5.2.10",
+    "body-parser": "^1.20.0",
+    "cross-fetch": "^3.1.5",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
+}
